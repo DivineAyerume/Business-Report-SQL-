@@ -10,4 +10,4 @@ The database contained data stored in three related tables;
 * Stock: contains information about the date each meal was restocked and the quantity purchased.
 
 ## SQL Report
-The report was created using Azure Data Studio to show the results of the analysis as well as document the queries used in generating the results. The report was saved as a Jupyter notebook **delivrnotebook.jpnb**
+The report was created using Azure Data Studio to show the results of the analysis as well as document the queries used in generating the results. The report was saved as a Jupyter notebook **Notebook Delivr.jpnb**
